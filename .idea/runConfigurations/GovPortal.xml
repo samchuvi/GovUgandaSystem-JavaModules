@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GovPortal" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="gov.app.Main" />
+    <module name="gov.app" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

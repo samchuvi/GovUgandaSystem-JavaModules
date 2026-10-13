@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gov.core/gov.core.iml" filepath="$PROJECT_DIR$/gov.core/gov.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gov.identity/gov.identity.iml" filepath="$PROJECT_DIR$/gov.identity/gov.identity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gov.tax/gov.tax.iml" filepath="$PROJECT_DIR$/gov.tax/gov.tax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gov.passport/gov.passport.iml" filepath="$PROJECT_DIR$/gov.passport/gov.passport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gov.business/gov.business.iml" filepath="$PROJECT_DIR$/gov.business/gov.business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gov.app/gov.app.iml" filepath="$PROJECT_DIR$/gov.app/gov.app.iml" />
+    </modules>
+  </component>
+</project>
